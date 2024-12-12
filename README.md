@@ -1,4 +1,4 @@
-#**End-to-End Data Analysis Project Using Power BI: Zomato Dashboard**
+**End-to-End Data Analysis Project Using Power BI: Zomato Dashboard**
 
 **Project Overview**
 
